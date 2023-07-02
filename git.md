@@ -1,0 +1,22 @@
+# Git semântico 
+É uma forma convencional de utilizar commits de forma padronizada pela própria semântica da mensagem do commit. [Referencia](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- build
+	- modificações em arquivos build e dependências
+- chore
+	- mudanças no arquivo `.gitignore` por exemplo, aonde não afeta diretamente o código
+- ci
+	- integração contínua
+- docs
+	- mudanças na documentação
+- feat
+	- novo recurso adicionado
+- fix
+	- solução de um problema
+- perf
+	- mudanças a performance
+- refactor
+	- mudança no código mas que não afetam a funcionalidade
+- style
+	- formatação do código
+- test
+	- alterações em testes, mas não afetam o código em si
