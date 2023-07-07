@@ -17,7 +17,7 @@
 </div>
 
 ## Porque usar
-- Repositório com finalidade de consulta para mim mesmo mas que podem ajudar alguém.
+Repositório com finalidade de consulta para mim mesmo mas que podem ajudar alguém.
 
 ## Como usar
 1. Clone o repositório
@@ -27,10 +27,10 @@
 1. Acesse / Pesquise / Revise os arquivos como quiser
 
 ## Quando usar
-- Quando precisar estudar ou ver novos assuntos, repositórios / conhecimento não faltaram!
+Quando precisar estudar ou ver novos assuntos, repositórios / conhecimento não faltaram!
 
 ## Aonde usar
-- Como os arquivos são em markdown (alguns com links externos) será possível usar em diversos programas de anotacões ou que tenha visualização markdown
+Como os arquivos são em markdown (alguns com links externos) será possível usar em diversos programas de anotacões ou que tenha visualização markdown
 
 ## Contribuição
 Estou aberto a contribuições, feedback e opiniões da comunidade! Se você tiver alguma ideia para melhorar o projeto, sugestões de novos recursos, até como **outros repositórios que tenham a mesma idéia**, ficarei feliz em receber sua contribuição! Basta enviar um Pull Request no repositório do projeto.
